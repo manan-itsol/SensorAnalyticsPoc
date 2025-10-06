@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorAnalyticsPoc.Api", "SensorAnalyticsPoc.Api\SensorAnalyticsPoc.Api.csproj", "{C1FEEF73-BCE9-3862-460E-9711FAE940EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FEEF73-BCE9-3862-460E-9711FAE940EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FEEF73-BCE9-3862-460E-9711FAE940EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FEEF73-BCE9-3862-460E-9711FAE940EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FEEF73-BCE9-3862-460E-9711FAE940EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0316628-E758-420D-B8A3-31E220F93E1A}
+	EndGlobalSection
+EndGlobal

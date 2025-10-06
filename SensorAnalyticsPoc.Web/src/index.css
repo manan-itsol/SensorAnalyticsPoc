@@ -1,0 +1,16 @@
+/* src/index.css */
+@import "tailwindcss";
+
+/* Global body and scrollbar */
+body {
+  @apply bg-gray-50 text-gray-800 font-sans antialiased;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
