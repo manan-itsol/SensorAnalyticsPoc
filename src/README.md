@@ -25,7 +25,7 @@ Before running the projects, ensure the following are installed:
 
 ### Redis Setup
 
-You can run Redis locally via Docker or install it natively.
+You can run Redis locally via Docker or install it natively. adding some
 
 #### Using Docker (recommended)
 
